@@ -1,0 +1,7 @@
+{
+  "name": "gesconv2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
